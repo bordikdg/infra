@@ -50,7 +50,7 @@ ssh -T git@github.com
 
 Change directory into the local clone of your repository (if you're not already there) and run:
 ```
-git remote set-url origin git@github.com:username/your-repository.git
+#### git remote set-url origin git@github.com:username/your-repository.git
 ```
 
 Now try editing a file (try the README) and then do:
