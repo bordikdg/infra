@@ -1,3 +1,5 @@
+#!/bin/bash
+#setup pritunl ubuntu 20.04
 sudo tee /etc/apt/sources.list.d/mongodb-org-6.0.list << EOF
 deb https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/6.0 multiverse
 EOF
